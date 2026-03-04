@@ -13,7 +13,7 @@
     "@credo-ts/askar": "^0.6.2",
     "@credo-ts/core": "^0.6.2",
     "@credo-ts/node": "^0.6.2",
-    "@hono/node-server": "^1.19.9",
+    "@hono/node-server": "^1.19.10",
     "@openwallet-foundation/askar-nodejs": "^0.4.3",
     "@sd-jwt/jwt-status-list": "^0.19.0",
     "hono": "^4.11.10"
